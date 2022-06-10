@@ -1,0 +1,37 @@
+[
+   {
+      "id":0,
+      "label":"Ayoub",
+      "value":0.71,
+      "color":"rgb(150, 14, 25)",
+      "children":null
+   },
+   {
+      "id":1,
+      "label":"Mazrou",
+      "value":0.04,
+      "color":"rgb(53, 140, 237)",
+      "children":null
+   },
+   {
+      "id":2,
+      "label":"Esi",
+      "value":0.05,
+      "color":"rgb(75, 135, 218)",
+      "children":null
+   },
+   {
+      "id":3,
+      "label":"Sil",
+      "value":0.18,
+      "color":"rgb(98, 131, 200)",
+      "children":null
+   },
+   {
+      "id":4,
+      "label":"Test",
+      "value":0.02,
+      "color":"rgb(120, 126, 181)",
+      "children":null
+   } 
+]
